@@ -1,10 +1,5 @@
 This is messy as hell at the moment, but here are things.
  
-/getwords.cpp
- 
-Source for the core of the server - pulls the appropriate
-length word file and returns a handful of similar words.
-
 /index.html
 
 Links everything together.
