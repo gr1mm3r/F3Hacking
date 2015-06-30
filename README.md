@@ -19,7 +19,7 @@ Makes everything look pretty.
 
 /server.php
 
-Called via Ajax request from index.html, calls getwords.exe and returns its result as JSON.
+Called via Ajax request from index.html, 
 
 /words/[2 - 19].txt
 
@@ -28,7 +28,3 @@ Words from "/words/crossword.txt" sorted by length.
 /words/crossword.txt
 
 Original word file, courtesy of the Gutenberg project.
-
-/words/parsedictionary.cpp
-
-Used to sort the dictionary by length. Not used at runtime.
